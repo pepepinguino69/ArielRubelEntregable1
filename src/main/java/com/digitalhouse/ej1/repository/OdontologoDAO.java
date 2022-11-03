@@ -2,7 +2,7 @@ package com.digitalhouse.ej1.repository;
 
 import com.digitalhouse.ej1.model.Odontologo;
 
-import java.sql.SQLException;
+
 import java.util.ArrayList;
 
 public interface OdontologoDAO {
