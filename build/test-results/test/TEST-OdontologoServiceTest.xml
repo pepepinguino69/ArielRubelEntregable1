@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OdontologoServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-03T21:14:57" hostname="ARI-DELL" time="1.111">
+  <properties/>
+  <testcase name="WHEN a odontologo object is created THEN it can be found and positively compared using the newly generated Id" classname="OdontologoServiceTest" time="1.024"/>
+  <testcase name="WHEN a odontologo object is updated THEN it has the right params" classname="OdontologoServiceTest" time="0.05"/>
+  <testcase name="WHEN a odontologo object is deleted THEN it can not  be found in the Database" classname="OdontologoServiceTest" time="0.01"/>
+  <testcase name="WHEN a random  number of odontologo objects are added to a clean database the returned rows of buscarTodos equals the number of added records" classname="OdontologoServiceTest" time="0.024"/>
+  <system-out><![CDATA[18:14:58.454 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+Thomas
+18:14:58.515 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Odontologo encontrado
+18:14:58.586 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Registro actualizado
+18:14:58.607 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+18:14:58.610 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Registro borrado
+18:14:58.620 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+18:14:58.623 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+18:14:58.624 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+18:14:58.626 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+18:14:58.628 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+18:14:58.634 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+18:14:58.637 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+18:14:58.639 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - consulta sobre todos los registros realizada
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
