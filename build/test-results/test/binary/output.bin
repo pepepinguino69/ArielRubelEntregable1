@@ -1,14 +1,14 @@
-i18:14:58.454 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+i20:56:37.962 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
 Thomas
-j18:14:58.515 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Odontologo encontrado
-i18:14:58.586 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Registro actualizado
-i18:14:58.607 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
-e18:14:58.610 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Registro borrado
-i18:14:58.620 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
-i18:14:58.623 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
-i18:14:58.624 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
-i18:14:58.626 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
-i18:14:58.628 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
-i18:14:58.634 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
-i18:14:58.637 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
-Å18:14:58.639 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - consulta sobre todos los registros realizada
+j20:56:38.032 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Odontologo encontrado
+i20:56:38.333 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Registro actualizado
+i20:56:38.361 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+e20:56:38.363 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Registro borrado
+i20:56:38.382 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+i20:56:38.389 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+i20:56:38.394 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+i20:56:38.398 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+i20:56:38.400 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+i20:56:38.402 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+i20:56:38.404 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - Agregando Odontologo
+Å20:56:38.407 [Test worker] INFO  com.digitalhouse.ej1.repository.OdontologoDAOH2 - consulta sobre todos los registros realizada

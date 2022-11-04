@@ -4,10 +4,9 @@ import com.digitalhouse.ej1.model.Odontologo;
 import com.digitalhouse.ej1.repository.OdontologoDAO;
 import com.digitalhouse.ej1.repository.OdontologoDAOH2;
 import lombok.AllArgsConstructor;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
-import java.sql.SQLException;
+
+
 import java.util.ArrayList;
 
 
@@ -24,7 +23,7 @@ public class OdontologoService {
 
 
 
-    public  Odontologo buscar(int id) throws SQLException{
+    public  Odontologo buscar(int id) {
 
         return this.odontologoDAO.buscar(id);
     }
